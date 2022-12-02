@@ -18,3 +18,10 @@
    특징: 시각이 제한된 플레이어가 공포 요소인 소리를 통해 귀신을 피하고 제한 시간 안에 교재를 모아 학교를 탈출하는 게임
 
 3. 인게임 화면
+
+![ghostSchool_hw](https://user-images.githubusercontent.com/67070820/205206294-94afd1db-e934-4aaf-a5bc-f5d8c229093c.png)
+
+![cutscene_6](https://user-images.githubusercontent.com/67070820/205206631-581cc3ac-aa3d-406f-ad6d-74f5bec45b95.png)
+
+<img width="566" alt="캡처" src="https://user-images.githubusercontent.com/67070820/205206795-7c07aed6-c6cb-4677-a91e-f777191df0a7.PNG">
+
