@@ -19,7 +19,7 @@
 
 3. 인게임 화면
 
-![ghostSchool_hw](https://user-images.githubusercontent.com/67070820/205206294-94afd1db-e934-4aaf-a5bc-f5d8c229093c.png)
+![badending_1 (1)](https://user-images.githubusercontent.com/67070820/205206978-2ca9e4cc-1984-4a56-a7fb-9015bfd099e2.png)
 
 ![cutscene_6](https://user-images.githubusercontent.com/67070820/205206631-581cc3ac-aa3d-406f-ad6d-74f5bec45b95.png)
 
