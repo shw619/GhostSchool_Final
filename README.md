@@ -23,5 +23,5 @@
 
 ![cutscene_6](https://user-images.githubusercontent.com/67070820/205206631-581cc3ac-aa3d-406f-ad6d-74f5bec45b95.png)
 
-<img width="566" alt="캡처" src="https://user-images.githubusercontent.com/67070820/205206795-7c07aed6-c6cb-4677-a91e-f777191df0a7.PNG">
+<img width="1920" alt="캡처" src="https://user-images.githubusercontent.com/67070820/205206795-7c07aed6-c6cb-4677-a91e-f777191df0a7.PNG">
 
